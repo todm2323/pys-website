@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://todm2323.github.io/pys-website/sitemap.xml
