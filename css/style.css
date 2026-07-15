@@ -525,7 +525,7 @@ ul {
   flex-grow: 1;
 }
 
-.service-card .link-more {
+.link-more {
   color: var(--orange);
   font-weight: 700;
   font-family: var(--font-display);
@@ -929,6 +929,16 @@ ul {
   font-size: 0.72rem;
   color: rgba(255, 255, 255, 0.5);
   margin-bottom: 3px;
+}
+
+.contact-info-card .line-qr {
+  width: 64px;
+  height: 64px;
+  margin-left: auto;
+  flex-shrink: 0;
+  background: var(--white);
+  border-radius: 4px;
+  padding: 4px;
 }
 
 .contact-form {
