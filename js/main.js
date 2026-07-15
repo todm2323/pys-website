@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "需求說明：\n" + message;
 
       var mailtoUrl =
-        "mailto:pys.fb@msa.hinet.net?subject=" +
+        "mailto:pys97316@gmail.com ?subject=" +
         encodeURIComponent(subject) +
         "&body=" +
         encodeURIComponent(body);
