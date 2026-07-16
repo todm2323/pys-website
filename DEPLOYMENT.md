@@ -52,8 +52,8 @@
 
 ## 之後要做的收尾
 
+- [x] DNS 設定完成、GitHub Pages Custom domain 綁定成功、HTTPS 已啟用
+      （2026-07-16 驗證：`pysforklift.com.tw` 200 OK，`www` 301 轉根網域，
+      舊的 `todm2323.github.io/pys-website/` 也已自動 301 轉到新網域）
 - [ ] Google Search Console 驗證新網域、提交 sitemap.xml
-- [ ] 確認舊的 `todm2323.github.io/pys-website/` 網址設定 301 轉址
-      （GitHub Pages 綁自訂網域後會自動處理；如搬到 Cloudflare Pages
-      則另外設定重新導向規則）
 - [ ] 檢查 Google Analytics / Search Console 裡的網址設定是否同步更新
